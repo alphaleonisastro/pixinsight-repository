@@ -6,17 +6,15 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.8.9-3">
-      <package fileName="AlphaLeonisScripts_20240628_214727.zip"
-               sha1="239593bf7896f5f39797e86a9e9a9f281b3b8305"
-               type="script"
-               releaseDate="20240628">
+      <package fileName="AlphaLeonisScripts_20240628_214727.zip" sha1="239593bf7896f5f39797e86a9e9a9f281b3b8305" type="script" releaseDate="20240628">
          <title>
             PixInsight Alpha Leonis scripts - Release of 2024-06-28
          </title>
          <description>
             <p>
-		         <ul>
-                  <li><strong>HdrEnhancement v0.1.3</strong> - First signed version.</li>
+               <ul>
+                  <li>
+                     <strong>HdrEnhancement v0.1.3</strong> - First signed version.</li>
                </ul>
             </p>
             <p>
@@ -26,3 +24,4 @@
       </package>
    </platform>
 </xri>
+<Signature developerId="AlphaLeonis" timestamp="2024-06-28T19:52:01.800Z" encoding="Base64">aLYwbwjlQEE7Upy/i1wcE11n7oUVQjxmU6v6b3KfGzjkN7hFkvrmdartOaFcy9ob/JvK9yMdzwoAiAia4yC9BA==</Signature>
