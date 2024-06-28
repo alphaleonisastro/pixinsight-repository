@@ -6,7 +6,7 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.9:1.8.9-3">
-      <package fileName="HdrEnhancement_0.1.2.zip"
+      <package fileName="AlphaLeonisScripts_20240628.zip"
                sha1="e8346c9b6fd6c72f488e3f96a466bb30e5f66dc5"
                type="script"
                releaseDate="20240628">
@@ -15,9 +15,9 @@
          </title>
          <description>
             <p>
-				<ul>
-					<li><strong>HdrEnhancement v0.1.2</strong> - This script makes it quick and easy to combine an image with HDR variants to enhance detail.</li>
-				</ul>
+		<ul>
+			<li><strong>HdrEnhancement v0.1.2</strong> - This script makes it quick and easy to combine an image with HDR variants to enhance detail.</li>
+		</ul>
             </p>
             <p>
                Lucas Mourey - Alpha Leonis © 2024
