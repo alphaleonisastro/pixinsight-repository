@@ -6,7 +6,7 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.8.9-3">
-      <package fileName="AlphaLeonisScripts_20240702.zip" sha1="4cde3705da30ab78215f3c15fad183cab5a3317f" type="script" releaseDate="20240702">
+      <package fileName="AlphaLeonisScripts_20240702.zip" sha1="72220481ba59d3a9f77f0e3d3d39056a837fc9ec" type="script" releaseDate="20240702">
          <title>
             PixInsight Alpha Leonis scripts - Release of 2024-07-02
          </title>
